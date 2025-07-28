@@ -28,7 +28,7 @@ A simple task tracker using HTML, CSS, and a little JS (coming soon!)
 
 ## 📈 GitHub Stats
 
-![Nakshathra's GitHub stats](https://github-readme-stats.vercel.app/api?NAkshathra-17S&show_icons=true&theme=tokyonight)
+![Nakshathra's GitHub stats](https://github-readme-stats.vercel.app/api?Nakshathra-17S&show_icons=true&theme=tokyonight)
 
 ---
 
