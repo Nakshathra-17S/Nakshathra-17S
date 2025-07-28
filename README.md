@@ -18,7 +18,7 @@
 
 ### 💻 Portfolio Website
 A personal webpage built with HTML and CSS.
-🔗 [View Code](https://github.com/your-username/portfolio-site)
+🔗 [View Code](https://github.com/Nakshathra-17S/portfolio-site)
 
 ### ✅ To-Do List App
 A simple task tracker using HTML, CSS, and a little JS (coming soon!)
@@ -28,7 +28,7 @@ A simple task tracker using HTML, CSS, and a little JS (coming soon!)
 
 ## 📈 GitHub Stats
 
-![Nakshathra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Nakshathra's GitHub stats](https://github-readme-stats.vercel.app/api?NAkshathra-17S&show_icons=true&theme=tokyonight)
 
 ---
 
