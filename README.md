@@ -1,16 +1,35 @@
 ## Hi there 👋
+# 👋 Hey there, I'm Nakshathra!
 
-<!--
-**Nakshathra-17S/Nakshathra-17S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a beginner web developer learning to build websites with **HTML** and **CSS**, and now exploring **Python** and **LeetCode** to improve my coding skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech I’m Learning
+
+- 🌐 HTML & CSS
+- 🐍 Python (for logic & LeetCode)
+- ⚙️ Git & GitHub (Version Control)
+- 🔧 DevOps (Coming soon)
+
+---
+
+## 🧰 My Projects
+
+### 💻 Portfolio Website
+A personal webpage built with HTML and CSS.
+🔗 [View Code](https://github.com/your-username/portfolio-site)
+
+### ✅ To-Do List App
+A simple task tracker using HTML, CSS, and a little JS (coming soon!)
+🔗 [Coming Soon]
+
+---
+
+## 📈 GitHub Stats
+
+![Nakshathra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+---
+
+
