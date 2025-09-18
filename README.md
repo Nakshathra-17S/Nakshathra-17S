@@ -18,7 +18,7 @@ I'm learning **Web Development (HTML, CSS, JS)** and starting with **DevOps** ba
 📌 Projects:
 - [My Portfolio Website](https://github.com/yourname/portfolio-site)
 - [To-Do App](https://github.com/yourname/todo-app)
-
+-  c programme to find the requirement of size(https://www.programiz.com/online-compiler/81ZzEPWzERWG8)
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)
@@ -71,7 +71,7 @@ https://codepen.io/nakshathra-govindaraju/pen/yyYzabm
 - 
 -python automation tasks-guided by chatgpt
 - https://github.com/Nakshathra-17S/-python-automation-task
-
+- c programme to find the requirement of size(https://www.programiz.com/online-compiler/81ZzEPWzERWG8)
 AI/ML projects (using google collab)
 https://github.com/Nakshathra-17S/AI-ML-Projects/blob/main/house_price_prediction.ipynb
 
